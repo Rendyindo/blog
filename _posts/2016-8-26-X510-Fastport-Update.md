@@ -1,6 +1,9 @@
 ---
-layout: post
-title: X510 Fastport update!
+title:  "X510 Fastport Update!"
+categories: 
+  - Fastport
+tags:
+  - update
 ---
 
 Well, this is my first post here.
