@@ -5,12 +5,13 @@ categories:
 ---
 
 **ATOS for Infinix Hot 2**
+
 This ROM is a project by **Ambaradul Team**
 
 Rom info:
-- Lollipop 5.1
-- Kernel 3.10.xx
-- Based on CyanogenMod 12.1
+* Lollipop 5.1
+* Kernel 3.10.xx
+* Based on CyanogenMod 12.1
 
 **Feature:**
 
@@ -27,10 +28,10 @@ v1.0
 [Google Drive]("https://drive.google.com/file/d/0B4UAywp66pSMcENWSng5dlpsY28/view?usp=sharing")
 
 **How to install:**
-- Go to TWRP
-- Format system, data, cache
-- Install the zip
-- Reboot
+* Go to TWRP
+* Format system, data, cache
+* Install the zip
+* Reboot
 
 Screenshots: **(Warning! large images)**
 ![](https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/14068211_665931886917007_1153779717089570609_n.jpg?oh=586e0adebcbea0679098fa3da65a405a&oe=586ACC99)
