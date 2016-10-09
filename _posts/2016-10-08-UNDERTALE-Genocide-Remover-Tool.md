@@ -1,3 +1,13 @@
+---
+title:  "UNDERTALE Genocide Remover"
+categories: 
+  - Tool
+tags:
+  - UNDERTALE
+  - Genocide
+---
+
+
 ![](http://cdn.akamai.steamstatic.com/steam/apps/391540/header.jpg?t=1468759045)
 
 # Undertale Genocide Remover
