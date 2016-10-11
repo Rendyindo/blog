@@ -49,6 +49,7 @@ Yes, here is the tutorial
 
 
  **Windows XP** 
+
 ```
 - Go to %SystemDrive%/Documents and Settings/%USERNAME%/Local/Application Data/UNDERTALE
 - Remove system_information_96*
@@ -80,6 +81,7 @@ Yes, here is the tutorial
 
 
 > Todo:
+>
 > - Droidtale support
 >
 > - GUI things
