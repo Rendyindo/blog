@@ -47,33 +47,45 @@ Yes, here is the tutorial
 
 ### Windows
 
+
  **Windows XP** 
 ```
 - Go to %SystemDrive%/Documents and Settings/%USERNAME%/Local/Application Data/UNDERTALE
 - Remove system_information_96*
 ```
+
  **Windows Vista/7/8/10** 
+
 ```
 - Go to %LOCALAPPDATA%/UNDERTALE
 - Remove system_information_96*
 ```
+
 ### Linux
 
+
  **DRM-free version** 
+
 ```
 - Go to ~/.config/UNDERTALE_linux
 - Remobe system_information_96*
 ```
+
  **Steam version** 
+
 ```
 - Go to ~/.config/UNDERTALE_linux_steamver
 - Remobe system_information_96*
 ```
 
+
 > Todo:
 > - Droidtale support
+>
 > - GUI things
+>
 > - Mac support
+
 
  **That's it for now, thanks!** 
 
