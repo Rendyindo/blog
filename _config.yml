@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Android is life."
   - text: "osu! is love."
 
-me-img: "/img/a.png"
+me-img: "/img/a.jpg"
 
 ##############################
 # Color the browser elements #
